@@ -6,7 +6,6 @@ Get cam url from https://vs.dom.ru.
 
 python -i login -p password
 
-1. Starts Flask server 
 
 Cam URL: http://127.0.0.1/api/v1/cams/url/cam_id
 
